@@ -1,6 +1,7 @@
 # Home Server
 
-## Description: The goal of this project is to figure out a some use for 4 pc I have. the pc use are operating on Windows (further spec will be listed in depth) and will be configured into server for Storage of file, database, media and a proxy server. 
+## Description: 
+### The goal of this project is to figure out a some use for 4 pc I have. the pc use are operating on Windows (further spec will be listed in depth) and will be configured into server for Storage of file, database, media and a proxy server. 
 the server will be made with linux maybe with ubuntu or NIxOS. We want the server to be callable as remote device that can be called by my main computer and access through a network connection 
 
 ### list of materialls 
@@ -18,5 +19,17 @@ This is a pretty old computer and uses to use for mainly running minecraft, doin
 ### Specs:
 
 ## # 2007 sony visio desktop computer #:
+
+### Specs:
+
+## # Hp Pavillion lapton @
+
+### Specs:
+
+## # Dell Laptop #
+
+### Specs: 
+
+## stuff we need other computers:
 
 
