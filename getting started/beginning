@@ -1,0 +1,9 @@
+first thing first 
+
+steps we nned to take:
+1. wipe each one of our old computer 
+2. figure out which distro we are going to use (I'm thinking Debian or NixOS just because we have alot countermeasure for dealing with corruption, Error and back ups
+3. research time: we need to do alittle research on alot of thing for this to work such as:
+    a. we going to need to re-learn unix enviroments 
+    b.re-ansible some yaml and ansible 
+    c. you need remind your self of some network protocols
